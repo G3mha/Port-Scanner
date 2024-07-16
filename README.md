@@ -22,6 +22,12 @@ A simple yet efficient port scanner built in Python, designed to scan and report
 
 ## Installation
 ```bash
+pip install -r requirements.txt
+```
+
+Or
+
+```bash
 pip install colorama
 ```
 
